@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes information on control of the CV system.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ce4ec3641c586efd46dd672f7f3fd9d6_4controlcvsys2006.pdf
+file: /media/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ce4ec3641c586efd46dd672f7f3fd9d6_4controlcvsys2006.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 4controlcvsys2006.pdf
 uid: ce4ec364-1c58-6efd-46dd-672f7f3fd9d6

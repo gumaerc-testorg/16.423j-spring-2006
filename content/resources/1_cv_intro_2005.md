@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes information on introduction to the CV system.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/24643cec459525eb1c9c9a2c3a169fdf_1_cv_intro_2005.pdf
+file: /media/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/24643cec459525eb1c9c9a2c3a169fdf_1_cv_intro_2005.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 1_cv_intro_2005.pdf
 uid: 24643cec-4595-25eb-1c9c-9a2c3a169fdf

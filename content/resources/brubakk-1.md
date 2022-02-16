@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97a6c3475ba69911c7b14c73ad61edef_brubakk.pdf
+file: /media/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97a6c3475ba69911c7b14c73ad61edef_brubakk.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: brubakk.pdf
 uid: 97a6c347-5ba6-9911-c7b1-4c73ad61edef
