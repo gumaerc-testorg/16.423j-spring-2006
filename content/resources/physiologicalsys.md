@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 resourcetype: Document
 title: physiologicalsys.pdf
 uid: 836ca544-fcf4-ac50-e594-be3b6808b5ce

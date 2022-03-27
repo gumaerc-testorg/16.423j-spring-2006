@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9b41d1de-142f-799a-ef96-dc8c0dcfd6f5
 resourcetype: Document
 title: assign_2_solns.pdf
 uid: f5841223-fa26-30ef-f78f-a3aebc288dfa

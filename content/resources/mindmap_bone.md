@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 resourcetype: Document
 title: mindmap_bone.pdf
 uid: 8ec720de-1d3d-1b98-ece3-de01ebdb5703

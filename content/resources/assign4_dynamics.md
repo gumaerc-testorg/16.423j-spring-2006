@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9b41d1de-142f-799a-ef96-dc8c0dcfd6f5
 resourcetype: Document
 title: assign4_dynamics.pdf
 uid: 4d61c7c4-ed4c-da11-4d99-06c9c15eb145

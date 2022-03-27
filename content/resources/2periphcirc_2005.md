@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 resourcetype: Document
 title: 2periphcirc_2005.pdf
 uid: e8c91786-be1e-8c3c-0655-61155617f0f6

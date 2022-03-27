@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 resourcetype: Document
 title: brubakk.pdf
 uid: 97a6c347-5ba6-9911-c7b1-4c73ad61edef

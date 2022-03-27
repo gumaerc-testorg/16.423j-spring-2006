@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 resourcetype: Document
 title: russian_bonefigs.pdf
 uid: 26c9af0c-acdc-e643-2901-1286c5f1b720

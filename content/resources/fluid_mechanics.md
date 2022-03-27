@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
 resourcetype: Document
 title: fluid_mechanics.pdf
 uid: 15a19243-f7ce-7a59-ca74-775851d8a1c4

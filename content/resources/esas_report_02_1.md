@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
 resourcetype: Document
 title: esas_report_02_1.pdf
 uid: fd8f2db6-ae93-b2db-2f3d-270c61a7d67d

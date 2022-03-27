@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9b41d1de-142f-799a-ef96-dc8c0dcfd6f5
 resourcetype: Document
 title: ongoingassessmnt.pdf
 uid: 8f425cca-9dc0-9346-5ade-0f30dcaf2d57

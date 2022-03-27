@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9b41d1de-142f-799a-ef96-dc8c0dcfd6f5
 resourcetype: Document
 title: initialassessmnt.pdf
 uid: c4bc152f-ad54-b616-4f8f-e11263aeaa3f

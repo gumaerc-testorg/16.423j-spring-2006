@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
 resourcetype: Other
 title: Land_Explore.zip
 uid: 41829e26-253e-e1f8-3e71-fcb41143e778

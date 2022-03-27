@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
 resourcetype: Other
 title: Sea_Explore.zip
 uid: 4e452fcf-0f73-51e3-3a47-f78a439a2852

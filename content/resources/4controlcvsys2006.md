@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 resourcetype: Document
 title: 4controlcvsys2006.pdf
 uid: ce4ec364-1c58-6efd-46dd-672f7f3fd9d6

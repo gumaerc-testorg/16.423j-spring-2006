@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
 resourcetype: Document
 title: imbp_muscles.pdf
 uid: 97ec3b0a-dfb0-c45c-377c-069b4c0f1534

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
 resourcetype: Document
 title: 1pgrspcesciexplr.pdf
 uid: 36b01d66-6f4f-f658-885d-9ad1ffb2bfae
