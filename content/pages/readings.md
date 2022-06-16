@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The reading section includes the required and recommended readings for
+  this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -51,11 +57,11 @@ Humans in Space
 {{< tdopen >}}
 "Space Science and Exploration: Research and Development Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006.  
   
-"Math and Science Eduction: American Competitiveness Initiative Education Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ostp.gov/pdf/1pger_mathsciedu.pdf))  
+"Math and Science Eduction: American Competitiveness Initiative Education Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006. ([PDF](http://www.ostp.gov/pdf/1pger_mathsciedu.pdf))  
   
 2007 US Federal R&D Budget Facts. ([PDF](http://www.ostp.gov/pdf/2007factsheet.pdf))  
   
-"NASA's Exploration Systems Architecture Study." Executive Summary. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF - 4.9 MB](http://images.spaceref.com/news/2005/ESAS.REPORT.01.PDF))
+"NASA's Exploration Systems Architecture Study." Executive Summary. ( [PDF - 4.9 MB](http://images.spaceref.com/news/2005/ESAS.REPORT.01.PDF))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +89,7 @@ Brubakk, A. "Man in Extreme Environments." _Aviat. Space Env. Med._ (September 2
 Bone Changes in Space
 {{< tdclose >}}
 {{< tdopen >}}
-Schaffner, Grant. "Bone Changes in Weightlessness." ([PDF - 2.0 MB]({{< baseurl >}}/resources/bone_background))  
+Schaffner, Grant. "Bone Changes in Weightlessness." ({{% resource_link 8817edfa-1cee-d5e0-55f6-7c5af1055969 "PDF - 2.0 MB" %}})  
   
 Beck, T. J., C. B. Ruff, et al. "Predicting Femoral Neck Strength from Bone Mineral Data: A Structural Approach." _Investigative Radiology_ 25, no. 1 (1990): 6-18.  
   

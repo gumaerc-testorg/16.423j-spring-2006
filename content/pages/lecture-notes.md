@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The lecture notes section includes the files related to specific lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
