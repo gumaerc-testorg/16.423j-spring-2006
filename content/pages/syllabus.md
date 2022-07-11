@@ -45,4 +45,4 @@ Students graduating from 16.423J/HST.515J will be able to:
 
  
 
-Edited the Syllabus
+Edited the Syllabus with a {{% resource_link "04ff74a7-5e8a-481a-a734-dcbdc7689080" "link" %}} to a resource list
