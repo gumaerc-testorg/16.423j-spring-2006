@@ -6,6 +6,7 @@ file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-
 file_type: application/zip
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes a zip file that conatins cfanchia_everest_tragedy.doc, kmhuffma_rabbitproof.doc, menchaca_everest.doc, and sheehans_marineBosnia.doc.
-
