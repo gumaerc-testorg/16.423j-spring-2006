@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on humans in space lecture notes.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/a1e9395776285dab497bd7b44f64c672_humansnspace2006.pdf
+file_size: 736842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

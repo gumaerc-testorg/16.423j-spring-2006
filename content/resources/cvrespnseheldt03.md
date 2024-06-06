@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on CV response to gravitational stress.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/e8dcb2189a309f153f53b82398e7207a_cvrespnseheldt03.pdf
+file_size: 1465315
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

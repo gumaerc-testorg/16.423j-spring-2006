@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on control of the CV system.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ce4ec3641c586efd46dd672f7f3fd9d6_4controlcvsys2006.pdf
+file_size: 1522443
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

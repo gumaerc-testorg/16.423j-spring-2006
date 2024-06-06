@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/a9e0065a00d2c5502554617c24d70875_joe_env.mat
+file_size: 379920
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
