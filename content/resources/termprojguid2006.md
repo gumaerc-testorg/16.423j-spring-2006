@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/286fcdf4511a239079336b4189b1f5a8_termprojguid2006.pdf
+file_size: 31182
 file_type: application/pdf
 learning_resource_types:
 - Assignments

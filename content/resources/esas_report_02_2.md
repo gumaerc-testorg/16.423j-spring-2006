@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on ESAS - report.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/4f4e9b34efc79da57336b501ccc8f31f_esas_report_02_2.pdf
+file_size: 10287784
 file_type: application/pdf
 learning_resource_types:
 - Readings

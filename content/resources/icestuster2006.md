@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on exploration in extreme environments.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/fb2f71dd65435b099ea319f3a0512221_icestuster2006.pdf
+file_size: 1272959
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on muscle spindle and model.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/24e146e3a04c3b2aa33f6a992f219304_musclspindlmodel.pdf
+file_size: 358979
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

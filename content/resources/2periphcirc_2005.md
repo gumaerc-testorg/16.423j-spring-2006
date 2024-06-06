@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on models of peripheral circulation.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/e8c91786be1e8c3c065561155617f0f6_2periphcirc_2005.pdf
+file_size: 1194964
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

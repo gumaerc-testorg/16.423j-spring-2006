@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/9cef3c5c3b668f8762a27e2ef6044be3_cardio_mech.pdf
+file_size: 1434807
 file_type: application/pdf
 learning_resource_types:
 - Readings
