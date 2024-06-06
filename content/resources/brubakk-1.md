@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97a6c3475ba69911c7b14c73ad61edef_brubakk.pdf
+file_size: 619968
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

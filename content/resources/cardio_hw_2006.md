@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on cardiovascular problem.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/b1f0258b388cb543b7a4b7bbd37f28bd_cardio_hw_2006.pdf
+file_size: 675820
 file_type: application/pdf
 learning_resource_types:
 - Assignments

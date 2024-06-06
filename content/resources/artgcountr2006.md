@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on countermeasures and artificial
   gravity.
 file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/cbc9e621d64e217e773fd2f2329abd33_artgcountr2006.pdf
+file_size: 1042751
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
