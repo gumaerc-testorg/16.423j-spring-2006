@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on CV simulator software.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/9c821e32b65145589c94db923b035726_cvsim.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/9c821e32b65145589c94db923b035726_cvsim.pdf
 file_size: 76316
 file_type: application/pdf
 learning_resource_types:

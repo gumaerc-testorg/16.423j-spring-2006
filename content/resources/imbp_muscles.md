@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on russian muscle studies.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97ec3b0adfb0c45c377c069b4c0f1534_imbp_muscles.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97ec3b0adfb0c45c377c069b4c0f1534_imbp_muscles.pdf
 file_size: 1140000
 file_type: application/pdf
 learning_resource_types:

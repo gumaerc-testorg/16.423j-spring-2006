@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on CV computational model.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97a9ee83234565f1d89efea03060566f_16423j_cv_sim.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/97a9ee83234565f1d89efea03060566f_16423j_cv_sim.pdf
 file_size: 2362044
 file_type: application/pdf
 learning_resource_types:

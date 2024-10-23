@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on bone summary mindmap.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/8ec720de1d3d1b98ece3de01ebdb5703_mindmap_bone.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/8ec720de1d3d1b98ece3de01ebdb5703_mindmap_bone.pdf
 file_size: 208995
 file_type: application/pdf
 learning_resource_types:
