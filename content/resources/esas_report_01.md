@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on ESAS - executive summary.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/30dc11881d0cffcc8117865d6117b98a_esas_report_01.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/30dc11881d0cffcc8117865d6117b98a_esas_report_01.pdf
 file_size: 5183801
 file_type: application/pdf
 learning_resource_types:

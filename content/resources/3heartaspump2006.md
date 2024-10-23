@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on the heart as a pump.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/83ad629c7b57441ace5d807c1af33878_3heartaspump2006.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/83ad629c7b57441ace5d807c1af33878_3heartaspump2006.pdf
 file_size: 1629065
 file_type: application/pdf
 learning_resource_types:
