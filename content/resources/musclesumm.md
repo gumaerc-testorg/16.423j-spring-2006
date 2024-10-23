@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/831266bc6ea0e471209f890af1158dfa_musclesumm.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/831266bc6ea0e471209f890af1158dfa_musclesumm.pdf
 file_size: 32875
 file_type: application/pdf
 learning_resource_types:
