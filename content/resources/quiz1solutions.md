@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the solutions to the problems asked in the quiz
   1.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/e54a19a48470a222cbefd517188b7f89_quiz1solutions.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/e54a19a48470a222cbefd517188b7f89_quiz1solutions.pdf
 file_size: 120551
 file_type: application/pdf
 learning_resource_types:

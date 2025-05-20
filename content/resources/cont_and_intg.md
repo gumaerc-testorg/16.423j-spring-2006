@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on control and integration of the
   CV system.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/55c0481283f1cd0f6294e2a9d5089ee6_cont_and_intg.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/55c0481283f1cd0f6294e2a9d5089ee6_cont_and_intg.pdf
 file_size: 1941426
 file_type: application/pdf
 learning_resource_types:
