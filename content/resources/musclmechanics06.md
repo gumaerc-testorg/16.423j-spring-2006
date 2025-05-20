@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on muscle mechanics.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/98895fb33ecae892fa5e325101b792bc_musclmechanics06.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/98895fb33ecae892fa5e325101b792bc_musclmechanics06.pdf
 file_size: 273614
 file_type: application/pdf
 learning_resource_types:

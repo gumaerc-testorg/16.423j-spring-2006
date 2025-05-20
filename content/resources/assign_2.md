@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes five problems to solve based on bone and related
   topics.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/b5b936bdb46b5758bfa069a14b4d5653_assign_2.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/b5b936bdb46b5758bfa069a14b4d5653_assign_2.pdf
 file_size: 104114
 file_type: application/pdf
 learning_resource_types:

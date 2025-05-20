@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes supporting files for assignment 4.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ffd5ded0514155636ce3b4be894d0ef2_dynamics_prob345.mdl
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ffd5ded0514155636ce3b4be894d0ef2_dynamics_prob345.mdl
 file_size: 22081
 file_type: text/plain
 learning_resource_types:

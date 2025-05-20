@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on exploration in extreme environments.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/62c51be21e9e75d01394e42af3104708_bold_endeavors.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/62c51be21e9e75d01394e42af3104708_bold_endeavors.pdf
 file_size: 163780
 file_type: application/pdf
 learning_resource_types:
