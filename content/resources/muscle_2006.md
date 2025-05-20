@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on muscle mechanisms II.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/fdfc9f3fc6918169b87c0432b2dcf23e_muscle_2006.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/fdfc9f3fc6918169b87c0432b2dcf23e_muscle_2006.pdf
 file_size: 1771253
 file_type: application/pdf
 learning_resource_types:

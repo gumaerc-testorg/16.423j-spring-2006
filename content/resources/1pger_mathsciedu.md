@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on OSTP - space science and exploration.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/928534c599db99c7a5314e0e6d1b9cca_1pger_mathsciedu.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/928534c599db99c7a5314e0e6d1b9cca_1pger_mathsciedu.pdf
 file_size: 72348
 file_type: application/pdf
 learning_resource_types:

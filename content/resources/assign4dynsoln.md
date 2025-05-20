@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the Preamble and solutions to the problem refered
   in assignment 4 inlcuding the MATLAB code for the same.
-file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/27d1fc41e8b1ef9886a518287241b27e_assign4dynsoln.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/27d1fc41e8b1ef9886a518287241b27e_assign4dynsoln.pdf
 file_size: 735679
 file_type: application/pdf
 learning_resource_types:
