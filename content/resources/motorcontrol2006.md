@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on motor control optimization.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/867c0e3a2ea74bdd1d312c40949acc24_motorcontrol2006.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/867c0e3a2ea74bdd1d312c40949acc24_motorcontrol2006.pdf
 file_size: 1407679
 file_type: application/pdf
 learning_resource_types:
