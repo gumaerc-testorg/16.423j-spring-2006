@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on function anatomy.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/321fd1fcd6a87a14528986f06097a08a_function_anatomy.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/321fd1fcd6a87a14528986f06097a08a_function_anatomy.pdf
 file_size: 348649
 file_type: application/pdf
 learning_resource_types:

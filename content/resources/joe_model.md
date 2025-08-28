@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes supporting files for assignment 3.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/dba6b673c8093e1cfb6f07bf348cd906_joe_model.mdl
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/dba6b673c8093e1cfb6f07bf348cd906_joe_model.mdl
 file_size: 13914
 file_type: text/plain
 learning_resource_types:

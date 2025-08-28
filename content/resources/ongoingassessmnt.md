@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/8f425cca9dc093465ade0f30dcaf2d57_ongoingassessmnt.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/8f425cca9dc093465ade0f30dcaf2d57_ongoingassessmnt.pdf
 file_size: 56987
 file_type: application/pdf
 learning_resource_types:

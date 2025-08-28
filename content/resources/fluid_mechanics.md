@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on physiological fluid flow.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/15a19243f7ce7a59ca74775851d8a1c4_fluid_mechanics.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/15a19243f7ce7a59ca74775851d8a1c4_fluid_mechanics.pdf
 file_size: 616530
 file_type: application/pdf
 learning_resource_types:
