@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on OSTP - math and science education.
-file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/36b01d666f4ff658885d9ad1ffb2bfae_1pgrspcesciexplr.pdf
+file: /ol-ocw-studio-app/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/36b01d666f4ff658885d9ad1ffb2bfae_1pgrspcesciexplr.pdf
 file_size: 76450
 file_type: application/pdf
 learning_resource_types:
