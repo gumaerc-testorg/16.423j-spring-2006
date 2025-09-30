@@ -41,7 +41,7 @@ Introduction
   
 Beckers, Frank, Bart Verheyden, Andre E. Aubert. "Space Physiology." _Wiley Encyclopedia of Biomedical Engineering_. Hoboken, NJ: John Wiley and Sons, Inc., 2006. ISBN: 9780471740377 .  
   
-National Academies Committee on Science, Engineering, and Public Policy. "[Rising above the Gathering Storm: Energizing and Employing America for a Brighter Economic Future](http://www.nap.edu/catalog/11463.html)." Washington, DC: The National Academies Press, 2006.  
+National Academies Committee on Science, Engineering, and Public Policy. "{{% resource_link "e1b06f1d-ea72-4380-ad64-726997df84a6" "Rising above the Gathering Storm: Energizing and Employing America for a Brighter Economic Future" %}}." Washington, DC: The National Academies Press, 2006.  
   
 Markoff, John. "Behind Bush's New Stress on Science, Lobbying by Republican Executives." _The New York Times_, February 2nd, 2006.
 {{< tdclose >}}
@@ -57,11 +57,11 @@ Humans in Space
 {{< tdopen >}}
 "Space Science and Exploration: Research and Development Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006.  
   
-"Math and Science Eduction: American Competitiveness Initiative Education Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006. ([PDF](http://www.ostp.gov/pdf/1pger_mathsciedu.pdf))  
+"Math and Science Eduction: American Competitiveness Initiative Education Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006. ({{% resource_link "5ca8da81-a3f0-47b2-a03c-eaae810f1d5e" "PDF" %}})  
   
-2007 US Federal R&D Budget Facts. ([PDF](http://www.ostp.gov/pdf/2007factsheet.pdf))  
+2007 US Federal R&D Budget Facts. ({{% resource_link "3c0aad56-3c1d-4924-9076-0e53f02ec6ec" "PDF" %}})  
   
-"NASA's Exploration Systems Architecture Study." Executive Summary. ( [PDF - 4.9 MB](http://images.spaceref.com/news/2005/ESAS.REPORT.01.PDF))
+"NASA's Exploration Systems Architecture Study." Executive Summary. ( {{% resource_link "e786c330-a410-4ef2-bf0c-2e2f2bfae3af" "PDF - 4.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,9 +265,9 @@ EVA II: Research
 Teaching and Outreach I
 {{< tdclose >}}
 {{< tdopen >}}
-[NASA Education Home](http://www.nasa.gov/offices/education/about/index.html)  
+{{% resource_link "7201ab50-461e-4adb-817e-3ddb359dda67" "NASA Education Home" %}}  
   
-[NASA Lessons for K-12 Students](http://www.nasa.gov/audience/forstudents/index.html)
+{{% resource_link "e7daec02-5c59-4883-8ea3-dee66d59785d" "NASA Lessons for K-12 Students" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -279,11 +279,11 @@ Teaching and Outreach I
 Teaching and Outreach II
 {{< tdclose >}}
 {{< tdopen >}}
-[National Academy of Engineering](http://www.nae.edu/Projects/AssessingTechnologicalLiteracy.aspx)  
+{{% resource_link "69e2660d-b780-4d9d-9c51-600608018fc8" "National Academy of Engineering" %}}  
   
-[National Academy Report: Raising the Public Awareness of Engineering](http://www.nap.edu/openbook.php?isbn=0309086248)  
+{{% resource_link "33c8f64f-97ab-47ea-93e2-e5bc78248bcc" "National Academy Report: Raising the Public Awareness of Engineering" %}}  
   
-[Educating the Engineer of 2020: Adapting Engineering Education to the New Century (2005)](http://www.nap.edu/openbook.php?isbn=0309096499)
+{{% resource_link "7c572e36-9059-40c8-9b57-3c2aa95374d3" "Educating the Engineer of 2020: Adapting Engineering Education to the New Century (2005)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
