@@ -36,7 +36,7 @@ Lecture Titles
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Rising Storm: State of the Union Address](http://www.nytimes.com/2006/02/02/business/02research.html?ex=1296536400&en=84faf625cb5962db&ei=5090&partner=rssuserland&emc=rss)
+{{% resource_link "0e0c76eb-d168-4da7-8056-d2332691e2b7" "Rising Storm: State of the Union Address" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
